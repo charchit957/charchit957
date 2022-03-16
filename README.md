@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, my name is Charchit Agarwal
-#### I am an passionate flutter developer
+#### I am a flutter developer
 
 Skills: C++ / C / JAVA / DART / FIREBASE
 
