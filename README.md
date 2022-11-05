@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 Skills: C++ / C / JAVA / DART / FIREBASE
 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/charchit-agarwal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/charchit-agarwal-a8161520b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/charchit_agarwal_/)  
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=charchit-agarwal)](https://github.com/ryo-ma/github-profile-trophy)-->
@@ -28,8 +27,10 @@ Skills: C++ / C / JAVA / DART / FIREBASE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=charchit-agarwal&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/charchit-agarwal)  
+[![@charchit957's Holopin board](https://holopin.me/charchit957)](https://holopin.io/@charchit957)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=charchit-agarwal)  
+
+![GitHub metrics](https://metrics.lecoq.io/charchit-agarwal)  
 
 ![Profile views](https://gpvc.arturio.dev/charchit-agarwal)  
